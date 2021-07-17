@@ -29,9 +29,6 @@ Da ich ausziehe und nicht alle Bücher mitnehmen will, alles zu verschenken:
 ![](covers/9.jpg)
 [Your Home is my Castle](https://www.amazon.de/Your-Home-My-Castle-Wohnungstauscher/dp/3890294928)
 
-![](covers/10.jpg)
-[Nachtzug nach Lissabon](https://www.amazon.de/Nachtzug-nach-Lissabon-Pascal-Mercier/dp/3442734363)
-
 ![](covers/11.jpg)
 [Offenbarungen aus der Traumzeit](https://www.amazon.de/Offenbarungen-Traumzeit-spirituelle-Wissen-Aborigines/dp/3442122740)
 
