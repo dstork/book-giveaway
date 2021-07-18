@@ -62,9 +62,6 @@ Da ich ausziehe und nicht alle Bücher mitnehmen will, alles zu verschenken:
 ![](covers/23.jpg)
 [Objective-C und Cocoa](https://www.amazon.de/Objective-C-Cocoa-Band-1-Grundlagen/dp/3908498082)
 
-![](covers/24.jpg)
-[Understanding the Linux Kernel](https://www.amazon.de/Understanding-Linux-Kernel-Process-Management-ebook/dp/B0043D2E54)
-
 ![](covers/25.jpg)
 [Qualityland](https://www.amazon.de/QualityLand-Roman-dunkle-Marc-Uwe-Kling/dp/3548291872)
 
