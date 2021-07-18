@@ -44,12 +44,6 @@ Da ich ausziehe und nicht alle Bücher mitnehmen will, alles zu verschenken:
 ![](covers/15.jpg)
 [Notstopp](https://www.amazon.de/Notstopp-Ein-Manager-Burn-out-steigt/dp/3839185769)
 
-![](covers/16.jpg)
-[Aristoteles](https://www.amazon.de/Aristoteles-Thomas-Buchheim/dp/3451047640)
-
-![](covers/17.jpg)
-[Republic](https://www.amazon.de/Republic-Classics-Literature-Llewelyn-Davies/dp/1853264830)
-
 ![](covers/18.jpg)
 [Der Name der Rose](https://www.amazon.de/Name-Rose-Umberto-Eco/dp/3423105518)
 
