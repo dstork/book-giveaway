@@ -11,9 +11,6 @@ Da ich ausziehe und nicht alle Bücher mitnehmen will, alles zu verschenken:
 ![](covers/3.jpg)
 [Ein Stück Himmel](https://www.amazon.de/Ein-St%C3%BCck-Himmel-Erinnerungen-Kindheit/dp/3423626429)
 
-![](covers/4.jpg)
-[Mitarbeiterführung](https://www.amazon.de/Mitarbeiterf%C3%BChrung-Cornelsen-Scriptor-Pocket-Business/dp/3411863900)
-
 ![](covers/5.jpg)
 [Der Minuten Manager](https://www.amazon.de/Minuten-Manager-schult-Hochleistungs-Teams/dp/3499614375)
 
@@ -55,9 +52,6 @@ Da ich ausziehe und nicht alle Bücher mitnehmen will, alles zu verschenken:
 
 ![](covers/21.jpg)
 [Denkanstöße 2009](https://www.amazon.de/Denkanst%C3%B6%C3%9Fe-2009-Lilo-G%C3%B6ttermann/dp/349225215X)
-
-![](covers/22.jpg)
-[Im Club der Zeitmillionäre](https://www.amazon.de/Im-Club-Zeitmillion%C3%A4re-anderen-Reichtum/dp/3847906224)
 
 ![](covers/23.jpg)
 [Objective-C und Cocoa](https://www.amazon.de/Objective-C-Cocoa-Band-1-Grundlagen/dp/3908498082)
