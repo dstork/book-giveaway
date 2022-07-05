@@ -15,14 +15,14 @@ Da ich umziehe und nicht alle Bücher mitnehmen will, alles zu verschenken. Wird
 ![](covers/46.jpg)
 [William Golding - Lord of the flies](https://www.amazon.de/Lord-Flies-William-Golding/dp/3883891657)
 
-![](covers/47.jpg)
-[Brian Merchant - The One Device (The secret history of the iPhone)](https://www.amazon.de/One-Device-Secret-History-iPhone/dp/0552173746)
+<!-- ![](covers/47.jpg)
+[Brian Merchant - The One Device (The secret history of the iPhone)](https://www.amazon.de/One-Device-Secret-History-iPhone/dp/0552173746) -->
 
 ![](covers/48.jpg)
 [Gillian Flynn - Gone Girl (deutsch)](https://www.amazon.de/Gone-Girl-perfekte-Opfer-Hochkar%C3%A4ter/dp/3596188784)
 
-![](covers/50.jpg)
-[Kai Diekmann - Der große Selbstbetrug](https://www.amazon.de/gro%C3%9Fe-Selbstbetrug-Zukunft-gebracht-Taschenbuch/dp/3492253938)
+<!-- ![](covers/50.jpg)
+[Kai Diekmann - Der große Selbstbetrug](https://www.amazon.de/gro%C3%9Fe-Selbstbetrug-Zukunft-gebracht-Taschenbuch/dp/3492253938) -->
 
 ![](covers/51.jpg)
 [Dan Brown - Illuminati](https://www.amazon.de/Illuminati-Thriller-Dan-Brown/dp/B008G8HTA2)
@@ -36,8 +36,8 @@ Da ich umziehe und nicht alle Bücher mitnehmen will, alles zu verschenken. Wird
 ![](covers/54.jpg)
 [Are you smart enough to work at Google?](https://www.amazon.de/Are-Smart-Enough-Work-Google/dp/0316336297)
 
-![](covers/55.jpg)
-[Bill Bryson - Streiflichter aus Amerika](https://www.amazon.de/Streiflichter-aus-Amerika-Anf%C3%A4nger-Fortgeschrittene/dp/B0024O2KLW)
+<!-- ![](covers/55.jpg)
+[Bill Bryson - Streiflichter aus Amerika](https://www.amazon.de/Streiflichter-aus-Amerika-Anf%C3%A4nger-Fortgeschrittene/dp/B0024O2KLW) -->
 
 ![](covers/49.jpg)
 [Ken Follett - Nacht über den Wassern](https://www.amazon.de/Nacht-%C3%BCber-den-Wassern-Belletristik/dp/3785706561)
@@ -57,8 +57,8 @@ Da ich umziehe und nicht alle Bücher mitnehmen will, alles zu verschenken. Wird
 ![](covers/65.jpg)
 [Ken Follett - Der Modigliani Skandal](https://www.amazon.de/Modigliani-Skandal-Roman-Ken-Follett/dp/3404174534)
 
-![](covers/60.jpg)
-[Emmanuel Todd - Weltmacht USA. Ein Nachruf](https://www.goodreads.com/book/show/917837.Weltmacht_USA_Ein_Nachruf)
+<!-- ![](covers/60.jpg)
+[Emmanuel Todd - Weltmacht USA. Ein Nachruf](https://www.goodreads.com/book/show/917837.Weltmacht_USA_Ein_Nachruf) -->
 
 ![](covers/61.jpg)
 [Denkanstöße 2017](https://www.amazon.de/Denkanst%C3%B6%C3%9Fe-2017-Lesebuch-Philosophie-Wissenschaft/dp/3492308821)
@@ -72,8 +72,8 @@ Da ich umziehe und nicht alle Bücher mitnehmen will, alles zu verschenken. Wird
 ![](covers/64.jpg)
 [Daniel Kehlmann - Ruhm](https://www.amazon.de/Ruhm-Ein-Roman-neun-Geschichten/dp/349924926X)
 
-![](covers/66.jpg)
-[Scrum - The art of doing twice the work in half the time](https://www.amazon.de/Scrum-Doing-Twice-Work-Half/dp/1847941109)
+<!-- ![](covers/66.jpg)
+[Scrum - The art of doing twice the work in half the time](https://www.amazon.de/Scrum-Doing-Twice-Work-Half/dp/1847941109) -->
 
 ![](covers/67.jpg)
 [Dennis Rodman - Walk on the wild side](https://www.amazon.de/Walk-Wild-Side-Dennis-Rodman/dp/3423241160)
@@ -90,8 +90,8 @@ Da ich umziehe und nicht alle Bücher mitnehmen will, alles zu verschenken. Wird
 ![](covers/5.jpg)
 [Der Minuten Manager](https://www.amazon.de/Minuten-Manager-schult-Hochleistungs-Teams/dp/3499614375)
 
-![](covers/6.jpg)
-[Die Eroberung des Südpols](https://www.amazon.de/Die-Eroberung-S%C3%BCdpols-1910-1912-Erdmann/dp/3865398235)
+<!-- ![](covers/6.jpg)
+[Die Eroberung des Südpols](https://www.amazon.de/Die-Eroberung-S%C3%BCdpols-1910-1912-Erdmann/dp/3865398235) -->
 
 ![](covers/7.jpg)
 [Trotz alledem. Deutsche Radikale 1777-1977](https://www.amazon.de/Trotz-alledem-Deutsche-Radikale-1777-1977/dp/3499171945)
