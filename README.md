@@ -33,8 +33,8 @@ Da ich umziehe und nicht alle Bücher mitnehmen will, alles zu verschenken. Wird
 ![](covers/53.jpg)
 [Shell Programmierung für Unix und Linux](https://www.amazon.de/Shell-Programmierung-f%C3%BCr-Unix-Linux-Grundlagen/dp/3446407375)
 
-![](covers/54.jpg)
-[Are you smart enough to work at Google?](https://www.amazon.de/Are-Smart-Enough-Work-Google/dp/0316336297)
+<!-- ![](covers/54.jpg)
+[Are you smart enough to work at Google?](https://www.amazon.de/Are-Smart-Enough-Work-Google/dp/0316336297) -->
 
 <!-- ![](covers/55.jpg)
 [Bill Bryson - Streiflichter aus Amerika](https://www.amazon.de/Streiflichter-aus-Amerika-Anf%C3%A4nger-Fortgeschrittene/dp/B0024O2KLW) -->
