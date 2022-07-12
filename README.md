@@ -27,8 +27,8 @@ Da ich umziehe und nicht alle Bücher mitnehmen will, alles zu verschenken. Wird
 ![](covers/51.jpg)
 [Dan Brown - Illuminati](https://www.amazon.de/Illuminati-Thriller-Dan-Brown/dp/B008G8HTA2)
 
-![](covers/52.jpg)
-[Sebastian Fitzek - Der Insasse (hardcover)](https://www.amazon.de/Insasse-Psychothriller-Limitierte-Sonderausgabe/dp/3426281538)
+<!-- ![](covers/52.jpg)
+[Sebastian Fitzek - Der Insasse (hardcover)](https://www.amazon.de/Insasse-Psychothriller-Limitierte-Sonderausgabe/dp/3426281538) -->
 
 ![](covers/53.jpg)
 [Shell Programmierung für Unix und Linux](https://www.amazon.de/Shell-Programmierung-f%C3%BCr-Unix-Linux-Grundlagen/dp/3446407375)
@@ -132,8 +132,8 @@ Da ich umziehe und nicht alle Bücher mitnehmen will, alles zu verschenken. Wird
 ![](covers/23.jpg)
 [Objective-C und Cocoa](https://www.amazon.de/Objective-C-Cocoa-Band-1-Grundlagen/dp/3908498082)
 
-![](covers/25.jpg)
-[Qualityland](https://www.amazon.de/QualityLand-Roman-dunkle-Marc-Uwe-Kling/dp/3548291872)
+<!-- ![](covers/25.jpg)
+[Qualityland](https://www.amazon.de/QualityLand-Roman-dunkle-Marc-Uwe-Kling/dp/3548291872) -->
 
 ![](covers/26.jpg)
 [Die Spendenmafia](https://www.amazon.de/Die-Spendenmafia-Schmutzige-Gesch%C3%A4fte-unserem/dp/342678498X)
@@ -165,8 +165,8 @@ Da ich umziehe und nicht alle Bücher mitnehmen will, alles zu verschenken. Wird
 ![](covers/34b.jpg)
 [Salman Rushdie - Der Boden unter ihren Füssen](https://www.amazon.de/Boden-unter-ihren-F%C3%BC%C3%9Fen/dp/3499228890)
 
-![](covers/35.jpg)
-[10.000 Träume](https://www.amazon.de/10-000-Tr%C3%A4ume-Traumsymbole-ihre-Bedeutung/dp/34421686009)
+<!-- ![](covers/35.jpg)
+[10.000 Träume](https://www.amazon.de/10-000-Tr%C3%A4ume-Traumsymbole-ihre-Bedeutung/dp/34421686009) -->
 
 ![](covers/36.jpg)
 [Handbuch der Traumsymbole](https://www.amazon.de/Das-Handbuch-Traum-Symbole-Bildsprache-verstehen/dp/3453700651)
